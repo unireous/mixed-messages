@@ -9,7 +9,7 @@ For this project, you will build a message generator program. Every time a user 
 *Project Objectives:*
 
 - Build a message generator program using Javascript
-- Use Git version control
+- Ÿol
 - Use command line
 - Develop locally on your computer
 
